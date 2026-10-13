@@ -6,7 +6,7 @@ I'm a Computer Science graduate passionate about building responsive web applica
 
 I enjoy exploring modern web technologies and integrating AI capabilities into practical applications.
 
-🌐 **Portfolio:** [View My Portfolio](YOUR_PORTFOLIO_URL)
+🌐 **Portfolio:** [View My Portfolio](https://anuragxg.github.io/MyPortfolio/)
 
 💻 **GitHub:** [@anuragxg](https://github.com/anuragxg)
 
